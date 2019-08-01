@@ -6,6 +6,6 @@
 
 <p>
 The point of the project is to learn about open science and open science research workflows through <a href="https://opensciencemooc.eu/"> The Open Science Mooc </a> This repository and integration with R studio is the third task of Module 5
-<img src="https://thumbs.dreamstime.com/z/clown-fish-sea-anemone-rocks-scuba-diver-under-blue-vibrant-colors-corals-backdrop-scubadiving-underwater-96307273.jpg" alt="divning in Dahab">
+<img src="https://ibb.co/VtGjr0m" alt="divning in Dahab">
 </p>
 
