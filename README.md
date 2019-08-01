@@ -6,5 +6,6 @@
 
 <p>
 The point of the project is to learn about open science and open science research workflows through <a href="https://opensciencemooc.eu/"> The Open Science Mooc </a> This repository and integration with R studio is the third task of Module 5
+<img src="https://www.dropbox.com/home/Dicte%20og%20Hazels%20Dykkerbilleder?preview=IMG_2959.JPG" alt="divning in Dahab">
 </p>
 
